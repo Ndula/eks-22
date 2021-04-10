@@ -47,7 +47,7 @@ eksctl get clusters
 # Replace with region & cluster name
 eksctl utils associate-iam-oidc-provider \
     --region ca-central-1 \
-    --cluster myeks11 \
+    --cluster myeks55 \
     --approve
 ```
 
